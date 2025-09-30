@@ -1,5 +1,5 @@
-# Influencia de las IAs en el aprendizaje humano
-## Revolución tecnológica en el mundo educativo
+# **Influencia de las IAs en el aprendizaje humano**
+## _Revolución tecnológica en el mundo educativo_
 La influencia de la inteligencia artificial (IA) en el aprendizaje humano está revolucionando el ámbito educativo a nivel global. Las tecnologías basadas en IA permiten crear entornos de aprendizaje personalizados, donde los contenidos y métodos se adaptan a las características, intereses y ritmos individuales de cada estudiante. Esto facilita una experiencia educativa más efectiva y motivadora, superando las limitaciones de la enseñanza tradicional.
 
 Además la IA proporciona herramientas de apoyo como tutores virtuales, sistemas de evaluación automática y plataformas interactivas que ofrecen retroalimentación inmediata, lo que acelera el proceso de aprendizaje y ayuda a identificar áreas de mejora de manera precisa. Estas innovaciones no solo amplían el acceso a la educación, sino que también fomentan el desarrollo de habilidades cognitivas y técnicas necesarias para enfrentar los retos del siglo XXI.
