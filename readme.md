@@ -7,6 +7,8 @@ Además la IA proporciona herramientas de apoyo como tutores virtuales, sistemas
 Sin embargo, la integración de la IA en la educación también plantea importantes desafíos. Entre ellos, destacan la necesidad de proteger la privacidad de los datos de los estudiantes, evitar la dependencia excesiva de la tecnología y garantizar que el aprendizaje asistido por IA sea inclusivo y equitativo para todos. Por ello, es fundamental combinar avances tecnológicos con una reflexión ética y pedagógica profunda.
 
 En resumen, la influencia de las IA en el aprendizaje humano abre un abanico de posibilidades para mejorar la educación, siempre que se implementen de manera responsable y consciente, buscando potenciar el talento y la creatividad de cada individuo en un mundo cada vez más digitalizado.
+<br>
+<br>
 ![MEME](https://file.aiquickdraw.com/tool-page/example-images/1751607687902uyz6ivxu.png)
 > **NOTA**: FRANCO ENRIQUE NERAZA FLORES APRUEBA ESTE TEXTO
 
