@@ -11,5 +11,5 @@ En resumen, la influencia de las IA en el aprendizaje humano abre un abanico de 
 > **NOTA**: FRANCO ENRIQUE NERAZA FLORES APRUEBA ESTE TEXTO
 
 Autor del texto:
-- Chat GPT :fire :fire :fire
+- Chat GPT :fire: :fire: :fire:
 - ~~Hugo Pérez~~
