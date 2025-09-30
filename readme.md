@@ -11,4 +11,4 @@ En resumen, la influencia de las IA en el aprendizaje humano abre un abanico de 
 
 Autor del texto:
 - Chat GPT
-- Hugo Pérez
+- ~~Hugo Pérez~~
