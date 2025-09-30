@@ -10,7 +10,8 @@ En resumen, la influencia de las IA en el aprendizaje humano abre un abanico de 
 <br>
 <br>
 ![MEME](https://file.aiquickdraw.com/tool-page/example-images/1751607687902uyz6ivxu.png)
-> **NOTA**: FRANCO ENRIQUE NERAZA FLORES APRUEBA ESTE TEXTO
+> [|NOTA] 
+> FRANCO ENRIQUE NERAZA FLORES APRUEBA ESTE TEXTO
 
 Autor del texto:
 > [!WARNING]
